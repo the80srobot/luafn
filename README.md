@@ -20,6 +20,6 @@ As a rule of thumb, the lazy functions are about two orders of magnitude slower 
                        F.partition(4,
                                    F.interleave(N.naturals(),
                                                 F.repeatedly(F.constantly(": ")),
-                                                N.fib(),
+                                                N.fibonacci(),
                                                 F.repeatedly(F.constantly("\n"))))))))
 
