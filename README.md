@@ -2,7 +2,7 @@ LuaFn is an EXPERIMENTAL, lazy implementation of the traditional functional prim
 
 ### Rationale
 
-My reasons for writing LuaFn were (1) to learn Lua and (2) to better understand how functional languages, such as Haskell and Clojure, implement their sequence libraries, which are also lazy. As such, I have very little interest in optimizing LuaFn beyond what's needed to make it usable.
+I wrote LuaFn to learn Lua. I now regret this decision. Anyway, here it is.
 
 ### A word on performance
 
